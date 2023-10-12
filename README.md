@@ -45,7 +45,8 @@ Welcome to the Young Entrepreneurs Startup Support Platform, a UI/UX design proj
 
 ## Getting Started
 
-To experience the Young Entrepreneurs Startup Support Platform, simply visit our website at [www.startup-support.com](https://www.startup-support.com) from your web browser. There's no need to install anything; the user-friendly design ensures a seamless experience from the moment you arrive.
+Experience the Influencer Marketing Platform. No installation is required; our UI/UX design ensures a smooth and intuitive experience from the moment you arrive.
+This project is all about increasing quality of incomplete project in terms of design aspects, you guys can update your work in the form of svg, png, etc, and logical work will be accepted :)
 
 ## Usage
 
