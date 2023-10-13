@@ -7,6 +7,7 @@ Certainly, here's a revised README file that emphasizes the UI/UX design aspect 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Instructions](#Instructions)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -19,6 +20,20 @@ Certainly, here's a revised README file that emphasizes the UI/UX design aspect 
 
 Welcome to the Young Entrepreneurs Startup Support Platform, a UI/UX design project tailored to empower young entrepreneurs in their startup journey. Our platform is designed to offer a user-friendly and visually appealing experience while providing essential support to budding entrepreneurs.
 
+## Instructions
+Copy the figma file present below, you will see an incomplete UI there, copy the design from the figma file, make new figma file and paste the design over there. Now, make your changes to it.
+PAGES TO BE MADE :
+1. Landing Page
+2. Login- Sign Up Pages
+3. Dashboard ( Investor Side)
+4. Dashboard ( Entrepreneur side)
+5. Profile Section
+6. Mobile Versions of the same
+
+   Design, and then export your work in the form of svg/png/pdf.
+   Now, fork this repository ( there will be a fork button over this repository) > add file > upload new files.
+   Upload your file over there from your desktop, and click to commit changes.
+   After that, there will be an option to create pull request. Create pull request then and you are ready to go :)
 ## Features
 
 ### 1. User-Centric Design
